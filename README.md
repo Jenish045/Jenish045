@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jenish045
 - 👀 I’m interested in Artificial Inteligence
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me - Instagram ID == @Jenish_045
+- 📫 How to reach me - linkedin == https://www.linkedin.com/in/jenish-upadhyay-727a46282/
 - 😄 Pronouns: He/Him
 
 <!---
